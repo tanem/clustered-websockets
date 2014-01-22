@@ -1,0 +1,13 @@
+{
+  "name": "cluster",
+  "description": "An example of using cluster and domain with Express and Socket.IO",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "express": "~3.3.3",
+    "jade": "~0.32.0"
+  }
+}
