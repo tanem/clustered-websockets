@@ -18,7 +18,3 @@ $ open http://localhost:3000
 ```
 
 There should be messages logged to the browser dev console and server log indicating the web socket connection has been established.
-
-## License
-
-MIT
