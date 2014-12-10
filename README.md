@@ -6,13 +6,13 @@ An implementation of clustered web sockets using [Socket.IO](http://socket.io/) 
 
 [Install Redis](http://redis.io/topics/quickstart). Then run:
 
-```sh
+```
 $ npm install
 ```
 
 ## Start
 
-```sh
+```
 $ node app.js
 $ open http://localhost:3000
 ```
