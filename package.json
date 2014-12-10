@@ -1,7 +1,7 @@
 {
   "name": "cluster",
   "description": "An example of using cluster and domain with Express and Socket.IO",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "scripts": {
     "start": "node app"
   },
