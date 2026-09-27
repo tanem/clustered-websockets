@@ -1,5 +1,7 @@
 # clustered-websockets
 
+> **Unmaintained.** This project is no longer maintained and the repository is archived.
+
 An implementation of clustered web sockets using [Socket.IO](http://socket.io/) and [express](http://expressjs.com/), based on [this post](http://adamnengland.wordpress.com/2013/01/30/node-js-cluster-with-socket-io-and-express-3/) by [Adam N England](https://github.com/adamnengland). [Redis](http://redis.io/) is used as the Socket.IO store so we can scale to multiple processes.
 
 ## Dependencies
